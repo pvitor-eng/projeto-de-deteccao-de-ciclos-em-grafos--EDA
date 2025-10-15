@@ -9,8 +9,9 @@ Projeto acadêmico para a disciplina de Teoria dos Grafos da UEMA.
 Sistema que detecta dependências circulares em módulos de software.
 
 ## 🚀 Como Usar
- - IMPORTANTE!!O programa vai pedir um arquivo de entrada .txt, que deve ser colocado na mesma pasta do código.  
- - Se for rodar o código pelo arquivo .exe, os arquivos de entrada também deverão estar na mesma pasta.  
+ - IMPORTANTE!!O programa vai pedir um arquivo de entrada .txt, que deve ser colocado na mesma pasta do código.
+ - o arquivo .exe está dentro da pasta \dist\main.  
+ - Se for rodar o código pelo arquivo .exe, os arquivos de entrada também deverão estar na mesma pasta, nesse caso, a pasta main.  
 O arquivo de entrada deve estar no formato: 
 
 D ou ND  
