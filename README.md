@@ -17,14 +17,13 @@ V1  V2 (com letras maiúsculas e separado por espaço)
 V3  V4  
 ...  
 
-Exemplo:   
-D    
-A  B  
-A  C  
-B  D  
-C  E  
-E  F  
-F  G  
+Exemplo:  
+D  
+A B  
+B D  
+C E  
+E F  
+F G  
 
 ### Instalação
 pip install graphviz
