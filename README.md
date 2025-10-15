@@ -18,6 +18,8 @@ V3  V4
 ...  
 
 Exemplo:  
+`D AB AC BD CE FF FG`
+
 D  
 `A  B`  
 `B  D`  
