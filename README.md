@@ -12,19 +12,19 @@ Sistema que detecta dependências circulares em módulos de software.
 O programa vai pedir um arquivo de entrada, que deve ser colocado na mesma pasta do código.
 O arquivo de entrada deve estar no formato:
 
-D ou ND
-V1 V2 (com letras maiúsculas e separado por espaço)
-V3 V4
-...
+D ou ND  
+V1 V2 (com letras maiúsculas e separado por espaço)  
+V3 V4  
+...  
 
-ex:
-D
-A B
-A C
-B D
-C E
-E F
-F G
+ex:  
+D  
+A B  
+A C  
+B D  
+C E  
+E F  
+F G  
 
 ### Instalação
 pip install graphviz
