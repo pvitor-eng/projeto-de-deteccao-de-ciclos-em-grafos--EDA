@@ -11,13 +11,12 @@ Sistema que detecta dependências circulares em módulos de software.
 ## 🚀 Como Usar
 O programa vai pedir um arquivo de entrada, que deve ser colocado na mesma pasta do código.
 O arquivo de entrada deve estar no formato:
-text
+
 D ou ND
 V1 V2 (com letras maiúsculas e separado por espaço)
 V3 V4
 ...
 
-text
 ex:
 D
 A B
