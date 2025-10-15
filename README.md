@@ -19,11 +19,11 @@ V3  V4
 
 Exemplo:  
 D  
-'A  B'  
-"B  D"  
-"C  E"  
-"E  F"  
-"F  G"  
+`A  B`  
+`B  D`  
+`C  E`  
+`E  F`  
+`F  G`  
 
 ### Instalação
 pip install graphviz
