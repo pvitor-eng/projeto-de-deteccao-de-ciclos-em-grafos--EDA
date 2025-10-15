@@ -17,8 +17,8 @@ V1  V2 (com letras maiúsculas e separado por espaço)
 V3  V4  
 ...  
 
-ex:  
-D  
+Exemplo:   
+D    
 A  B  
 A  C  
 B  D  
