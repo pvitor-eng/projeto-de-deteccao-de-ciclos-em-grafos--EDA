@@ -13,7 +13,7 @@ O programa vai pedir um arquivo de entrada, que deve ser colocado na mesma pasta
 O arquivo de entrada deve estar no formato:
 D ou ND
 V1 V2 (com letras maiúsculas e separado por espaço)
-V# V4
+V3 V4
 ...
 
 ex: 
