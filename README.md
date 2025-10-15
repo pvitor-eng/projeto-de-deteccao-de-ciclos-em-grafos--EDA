@@ -19,7 +19,7 @@ V3  V4
 
 Exemplo:  
 D  
-"A  B"  
+'A  B'  
 "B  D"  
 "C  E"  
 "E  F"  
