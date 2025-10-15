@@ -13,18 +13,18 @@ O programa vai pedir um arquivo de entrada, que deve ser colocado na mesma pasta
 O arquivo de entrada deve estar no formato:
 
 D ou ND  
-V1 V2 (com letras maiúsculas e separado por espaço)  
-V3 V4  
+V1  V2 (com letras maiúsculas e separado por espaço)  
+V3  V4  
 ...  
 
 ex:  
 D  
-A B  
-A C  
-B D  
-C E  
-E F  
-F G  
+A  B  
+A  C  
+B  D  
+C  E  
+E  F  
+F  G  
 
 ### Instalação
 pip install graphviz
